@@ -1,4 +1,4 @@
-# LCD-Display
+# LCD-Display I²C LCD Modul
 Ein LCD Display per Arduino ansteuern
 
 Aufgabe: Ein LCD Display soll mit einem Arduino Mikrocontroller angesteuert werden. Danach soll auf dem Display ein vorher festgelegter Text erscheinen.
