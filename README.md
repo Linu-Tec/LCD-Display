@@ -21,4 +21,4 @@ Achtung!: Bei dem MEGA2560 R3 Microcontroller gibt es für die SDA – und SCL- 
 Auf der Rückseite des Displays, am I2C Modul befindet sich ein blauer Kasten mit dem der Kontrast geregelt werden kann, so ist kein zusätzlicher Drehregler im Aufbau nötig. Achtung: Oft ist der Kontrast zu Beginn sehr weit herunter geschraubt. Daher sollte man den Kontrast mit dem Drehregler erhöhen.
 
 
-Weitere Infos unter: https://funduino.de/
+Weitere Infos unter: https://funduino.de/anleitung-4x20-i%c2%b2c-lcd-modul
