@@ -19,3 +19,6 @@ Verkabelung: Die Verkabelung ist sehr simpel. Am I2C LCD Modul sind nur vier Kon
 Achtung!: Bei dem MEGA2560 R3 Microcontroller gibt es für die SDA – und SCL- Kontakte eigene Eingänge auf dem Board unter 20 und 21.
 
 Auf der Rückseite des Displays, am I2C Modul befindet sich ein blauer Kasten mit dem der Kontrast geregelt werden kann, so ist kein zusätzlicher Drehregler im Aufbau nötig. Achtung: Oft ist der Kontrast zu Beginn sehr weit herunter geschraubt. Daher sollte man den Kontrast mit dem Drehregler erhöhen.
+
+
+Weitere Infos unter: https://funduino.de/
