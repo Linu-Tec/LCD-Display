@@ -11,7 +11,7 @@ lcd.backlight(); //Hintergrundbeleuchtung einschalten (lcd.noBacklight(); schalt
 void loop() 
 { 
 lcd.setCursor(0, 0);//Hier wird die Position des ersten Zeichens festgelegt. In diesem Fall bedeutet (0,0) das erste Zeichen in der ersten Zeile. 
-lcd.print("Funduino GmbH"); 
+lcd.print("LinuTec"); 
 lcd.setCursor(0, 1);// In diesem Fall bedeutet (0,1) das erste Zeichen in der zweiten Zeile. 
 lcd.print("Viel Erfolg!"); 
 } 
